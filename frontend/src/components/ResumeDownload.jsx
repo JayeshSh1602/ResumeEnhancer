@@ -1,4 +1,3 @@
-// ResumeDownload.jsx
 const ResumeDownload = ({ resumeData }) => {
   if (!resumeData) {
     return <div className="text-center mt-20 text-red-500">Nothing to preview. Please upload and enhance first.</div>;

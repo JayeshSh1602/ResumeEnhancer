@@ -1,4 +1,3 @@
-// pages/Home.jsx
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { FaUpload } from 'react-icons/fa';

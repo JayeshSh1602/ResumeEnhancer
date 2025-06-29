@@ -1,4 +1,3 @@
-// components/EnhancePage.jsx
 import React from 'react';
 import ResumeEnhancer from './ResumeEnhancer';
 
